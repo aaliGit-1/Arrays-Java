@@ -6,6 +6,10 @@ leftRotate.java: <br>
 Print the left and right rotation of an array <br>
 longSubArr.java<br>
 Print the longest subarray of an array whose sum is equal to the given K<br>
+maxEle.java<br>
+Print the maximum element in the array (solve it by 2 methods method1, method2)<br>
+missEle.java<br>
+Print the missing element in the sorted array<br>
 moveZero.java<br>
 Print the array where all the zero are at the end of the array<br>
 remDup.java<br>
