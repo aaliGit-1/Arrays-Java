@@ -14,3 +14,5 @@ moveZero.java<br>
 Print the array where all the zero are at the end of the array<br>
 remDup.java<br>
 Print the number of elements which are unique<br>
+smallLarge.java<br>
+Print the Kth smallest number and Kth largest number in an array<br>
