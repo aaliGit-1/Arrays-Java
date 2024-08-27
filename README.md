@@ -16,3 +16,5 @@ remDup.java<br>
 Print the number of elements which are unique<br>
 smallLarge.java<br>
 Print the Kth smallest number and Kth largest number in an array<br>
+unionArr.java<br>
+Print the intersection of the two arrays<br>
