@@ -31,6 +31,12 @@ Print the array where all the zero are at the end of the array<br>
 >remDup.java<br>
 Print the number of elements which are unique<br>
 
+>removeDup.java<br>
+After removing the duplicate element print the array of unique elements<br>
+
+>secondSmallNum.java<br>
+Print the second smallest and largest element in the array<br>
+
 >smallLarge.java<br>
 Print the Kth smallest number and Kth largest number in an array<br>
 
